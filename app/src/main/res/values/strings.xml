@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="clique_aqui">Clique aqui para continuar</string>
+    <string name="hello_word">Olá mundo</string>
+    <string name="insira_seu_peso_em_kg">Peso em KG (Ex: 65.5)</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="imc">IMC</string>
+    <string name="insira_sua_altura_em_cm_ex_1_78">Altura em cm (Ex: 1.78)</string>
+</resources>
